@@ -29,7 +29,13 @@ let package = Package(
 
 ### Run Script
 
-![Run Script](https://i.gyazo.com/3b877684d031bcf7d9fe4d5019aadf1d.png)
+![Run Script](https://i.gyazo.com/3b877684d031bcf7d9fe4d5019aadf1d.png)]
 
+## `.gitignore`
+
+```.gitignore
+# SwiftPM
+BuildTools/.build
+```
 
 ### ビルドする
