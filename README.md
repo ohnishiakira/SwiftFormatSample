@@ -31,7 +31,7 @@ let package = Package(
 
 ![Run Script](https://i.gyazo.com/3b877684d031bcf7d9fe4d5019aadf1d.png)]
 
-## `.gitignore`
+### `.gitignore`
 
 ```.gitignore
 # SwiftPM
